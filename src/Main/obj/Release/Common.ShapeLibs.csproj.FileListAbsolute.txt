@@ -1,0 +1,5 @@
+C:\Dev\VS2008DotNetDevelopment\USC\GISResearchLab\Common\ShapeLib\build\v1.1\bin\release\Org DLL\shapelib.dll
+C:\Dev\VS2008DotNetDevelopment\USC\GISResearchLab\Common\ShapeLib\build\v1.1\bin\release\x64 DLL\shapelib.dll
+C:\Dev\VS2008DotNetDevelopment\USC\GISResearchLab\Common\ShapeLib\build\v1.1\bin\release\x86 DLL\shapelib.dll
+C:\Dev\VS2008DotNetDevelopment\USC\GISResearchLab\Common\ShapeLib\build\v1.1\bin\release\USC.GISResearchLab.Common.ShapeLibs.dll
+C:\Dev\VS2008DotNetDevelopment\USC\GISResearchLab\Common\ShapeLib\src\obj\Release\USC.GISResearchLab.Common.ShapeLibs.dll
