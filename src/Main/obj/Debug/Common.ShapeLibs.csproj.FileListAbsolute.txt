@@ -1,7 +1,0 @@
-C:\Dev\VS2008DotNetDevelopment\USC\GISResearchLab\Common\ShapeLib\build\v1.1\bin\debug\Org DLL\shapelib.dll
-C:\Dev\VS2008DotNetDevelopment\USC\GISResearchLab\Common\ShapeLib\build\v1.1\bin\debug\x64 DLL\shapelib.dll
-C:\Dev\VS2008DotNetDevelopment\USC\GISResearchLab\Common\ShapeLib\build\v1.1\bin\debug\x86 DLL\shapelib.dll
-C:\Dev\VS2008DotNetDevelopment\USC\GISResearchLab\Common\ShapeLib\build\v1.1\bin\debug\USC.GISResearchLab.Common.ShapeLibs.dll
-C:\Dev\VS2008DotNetDevelopment\USC\GISResearchLab\Common\ShapeLib\build\v1.1\bin\debug\USC.GISResearchLab.Common.ShapeLibs.pdb
-C:\Dev\VS2008DotNetDevelopment\USC\GISResearchLab\Common\ShapeLib\src\obj\Debug\USC.GISResearchLab.Common.ShapeLibs.dll
-C:\Dev\VS2008DotNetDevelopment\USC\GISResearchLab\Common\ShapeLib\src\obj\Debug\USC.GISResearchLab.Common.ShapeLibs.pdb
